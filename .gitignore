@@ -1,0 +1,6 @@
+node_modules/
+.kiro/
+*.test.js
+*.property.test.js
+package.json
+package-lock.json
